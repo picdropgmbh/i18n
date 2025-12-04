@@ -1,0 +1,54 @@
+comments.unsubscribe.description: "Vous ne recevrez plus de notifications par e-mail concernant les nouveaux commentaires sur <b>{fileName}</b> dans <b>{galleryName}</b>."
+comments.unsubscribe.title: Les notifications par e-mail sont désactivées
+error.data_incomplete: Les données sont incomplètes. Veuillez vérifier vos entrées.
+error.invalid_user: L'utilisateur est inconnu.
+error.invalid_username: L'utilisateur est inconnu.
+error.missing_field: Veuillez remplir tous les champs.
+login.form.error_auth_incorrect: Le nom d'utilisateur ou le mot de passe est incorrect.
+login.form.error_data_incomplete: Veuillez remplir tous les champs.
+login.form.error_general_error: Une erreur s'est produite.
+login.form.field_password_placeholder: Mot de passe
+login.form.field_username_placeholder: Nom d'utilisateur ou adresse e-mail
+login.form.link_reset_password: Mot de passe oublié ?
+login.form.link_sign_up: Créer un compte
+login.form.send_request: Connexion
+login.form.title: Connexion
+password_reset.form.error_general_error: Une erreur s'est produite.
+password_reset.form.error_invalid_email: Veuillez entrer une adresse e-mail valide.
+password_reset.form.error_invalid_password: Le mot de passe est incorrect.
+password_reset.form.error_invalid_password_reset_link: Ce lien de réinitialisation n'est plus valide. Veuillez demander à nouveau votre mot de passe.
+password_reset.form.error_invalid_user: L'utilisateur est inconnu.
+password_reset.form.error_invalid_username: L'utilisateur est inconnu.
+password_reset.form.error_missing_field: Veuillez remplir tous les champs.
+password_reset.form.error_password_mismatch: Les deux mots de passe saisis ne correspondent pas.
+password_reset.form.error_password_unsafe: Malheureusement, nous ne pouvons pas utiliser ce mot de passe car il est très peu sécurisé. Veuillez choisir un autre mot de passe.
+password_reset.form.field_mail_placeholder: Votre adresse e-mail
+password_reset.form.field_password_confirm_placeholder: "… veuillez entrer à nouveau"
+password_reset.form.field_password_placeholder: Votre nouveau mot de passe
+password_reset.form.intro: "Mot de passe oublié ? Entrez l'adresse e-mail avec laquelle vous vous êtes inscrit. Nous vous enverrons des informations sur la façon de réinitialiser votre mot de passe."
+password_reset.form.login: Aller à la connexion
+password_reset.form.request_sent: Demande envoyée !
+password_reset.form.request_success: "Si nous reconnaissons l'adresse e-mail que vous avez saisie, vous devriez avoir reçu un e-mail vous permettant de réinitialiser votre mot de passe. Veuillez également vérifier votre dossier spam."
+password_reset.form.reset: Réinitialiser le mot de passe
+password_reset.form.reset_done: Mot de passe réinitialisé !
+password_reset.form.reset_success_message: Votre mot de passe a été modifié avec succès. Vous pouvez maintenant vous connecter avec.
+password_reset.form.send_request: Envoyer la demande
+password_reset.form.title: Réinitialiser le mot de passe
+sign_up.form.description: L'inscription ne prend que quelques secondes et est entièrement gratuite.
+sign_up.form.error_general_error: Une erreur s'est produite.
+sign_up.form.error_invalid_account_name: Cette adresse picdrop n'est malheureusement pas disponible.
+sign_up.form.error_missing_field: Veuillez remplir tous les champs.
+sign_up.form.error_user_already_exists: Un utilisateur avec cette adresse e-mail est déjà enregistré.
+sign_up.form.field_accept_terms: "J'accepte les <a href=\"https://www.picdrop.com/web/fr/gtc/\" target=\"_blank\">Conditions d'utilisation</a> et la <a href=\"https://www.picdrop.com/web/fr/privacy/\" target=\"_blank\" rel=\"noopener noreferrer\">Politique de confidentialité</a>."
+sign_up.form.field_account_name_hint: "Votre adresse picdrop fera partie des liens de vos galeries que vous partagerez avec d'autres."
+sign_up.form.field_account_name_placeholder: Mon adresse picdrop
+sign_up.form.field_company_placeholder: Nom de l'entreprise
+sign_up.form.field_coupon: Avez-vous un code promo ?
+sign_up.form.field_coupon_placeholder: Code promo
+sign_up.form.field_firstname_placeholder: Prénom
+sign_up.form.field_lastname_placeholder: Nom de famille
+sign_up.form.field_mail_placeholder: Adresse e-mail
+sign_up.form.radio_company: Je suis une entreprise/équipe
+sign_up.form.radio_freelancer: Je suis indépendant/freelance
+sign_up.form.send_request: S'inscrire gratuitement maintenant
+sign_up.form.title: Commencer
