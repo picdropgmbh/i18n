@@ -39,7 +39,9 @@ sign_up.form.error_general_error: Une erreur s'est produite.
 sign_up.form.error_invalid_account_name: Cette adresse picdrop n'est malheureusement pas disponible.
 sign_up.form.error_missing_field: Veuillez remplir tous les champs.
 sign_up.form.error_user_already_exists: Un utilisateur avec cette adresse e-mail est déjà enregistré.
-sign_up.form.field_accept_terms: "J'accepte les <a href=\"https://www.picdrop.com/web/fr/gtc/\" target=\"_blank\">Conditions d'utilisation</a> et la <a href=\"https://www.picdrop.com/web/fr/privacy/\" target=\"_blank\" rel=\"noopener noreferrer\">Politique de confidentialité</a>."
+sign_up.form.field_accept_terms: >-
+  J'accepte les <a href="https://www.picdrop.com/web/fr/gtc/" target="_blank">Conditions d'utilisation</a>
+  et la <a href="https://www.picdrop.com/web/fr/privacy/" target="_blank" rel="noopener noreferrer">Politique de confidentialité</a>.
 sign_up.form.field_account_name_hint: "Votre adresse picdrop fera partie des liens de vos galeries que vous partagerez avec d'autres."
 sign_up.form.field_account_name_placeholder: Mon adresse picdrop
 sign_up.form.field_company_placeholder: Nom de l'entreprise
