@@ -1,4 +1,4 @@
-comments.unsubscribe.description: "Vous ne recevrez plus de notifications par e-mail concernant les nouveaux commentaires sur <b>{fileName}</b> dans <b>{galleryName}</b>."
+comments.unsubscribe.description: Vous ne recevrez plus de notifications par e-mail concernant les nouveaux commentaires sur <b>{fileName}</b> dans <b>{galleryName}</b>.
 comments.unsubscribe.title: Les notifications par e-mail sont désactivées
 error.data_incomplete: Les données sont incomplètes. Veuillez vérifier vos entrées.
 error.invalid_user: L'utilisateur est inconnu.
@@ -23,12 +23,12 @@ password_reset.form.error_missing_field: Veuillez remplir tous les champs.
 password_reset.form.error_password_mismatch: Les deux mots de passe saisis ne correspondent pas.
 password_reset.form.error_password_unsafe: Malheureusement, nous ne pouvons pas utiliser ce mot de passe car il est très peu sécurisé. Veuillez choisir un autre mot de passe.
 password_reset.form.field_mail_placeholder: Votre adresse e-mail
-password_reset.form.field_password_confirm_placeholder: "… veuillez entrer à nouveau"
+password_reset.form.field_password_confirm_placeholder: … veuillez entrer à nouveau
 password_reset.form.field_password_placeholder: Votre nouveau mot de passe
-password_reset.form.intro: "Mot de passe oublié ? Entrez l'adresse e-mail avec laquelle vous vous êtes inscrit. Nous vous enverrons des informations sur la façon de réinitialiser votre mot de passe."
+password_reset.form.intro: Mot de passe oublié ? Entrez l'adresse e-mail avec laquelle vous vous êtes inscrit. Nous vous enverrons des informations sur la façon de réinitialiser votre mot de passe.
 password_reset.form.login: Aller à la connexion
 password_reset.form.request_sent: Demande envoyée !
-password_reset.form.request_success: "Si nous reconnaissons l'adresse e-mail que vous avez saisie, vous devriez avoir reçu un e-mail vous permettant de réinitialiser votre mot de passe. Veuillez également vérifier votre dossier spam."
+password_reset.form.request_success: Si nous reconnaissons l'adresse e-mail que vous avez saisie, vous devriez avoir reçu un e-mail vous permettant de réinitialiser votre mot de passe. Veuillez également vérifier votre dossier spam.
 password_reset.form.reset: Réinitialiser le mot de passe
 password_reset.form.reset_done: Mot de passe réinitialisé !
 password_reset.form.reset_success_message: Votre mot de passe a été modifié avec succès. Vous pouvez maintenant vous connecter avec.
@@ -39,10 +39,8 @@ sign_up.form.error_general_error: Une erreur s'est produite.
 sign_up.form.error_invalid_account_name: Cette adresse picdrop n'est malheureusement pas disponible.
 sign_up.form.error_missing_field: Veuillez remplir tous les champs.
 sign_up.form.error_user_already_exists: Un utilisateur avec cette adresse e-mail est déjà enregistré.
-sign_up.form.field_accept_terms: >-
-  J'accepte les <a href="https://www.picdrop.com/web/fr/gtc/" target="_blank">Conditions d'utilisation</a>
-  et la <a href="https://www.picdrop.com/web/fr/privacy/" target="_blank" rel="noopener noreferrer">Politique de confidentialité</a>.
-sign_up.form.field_account_name_hint: "Votre adresse picdrop fera partie des liens de vos galeries que vous partagerez avec d'autres."
+sign_up.form.field_accept_terms: J'accepte les <a href="https://www.picdrop.com/web/fr/gtc/" target="_blank">Conditions d'utilisation</a> et la <a href="https://www.picdrop.com/web/fr/privacy/" target="_blank" rel="noopener noreferrer">Politique de confidentialité</a>.
+sign_up.form.field_account_name_hint: Votre adresse picdrop fera partie des liens de vos galeries que vous partagerez avec d'autres.
 sign_up.form.field_account_name_placeholder: Mon adresse picdrop
 sign_up.form.field_company_placeholder: Nom de l'entreprise
 sign_up.form.field_coupon: Avez-vous un code promo ?
