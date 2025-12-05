@@ -1,4 +1,4 @@
-comments.unsubscribe.description: "You will no longer receive email notifications about new comments on <b>{fileName}</b> in <b>{galleryName}</b>."
+comments.unsubscribe.description: "You will no longer receive email notifications about new comments on <b>{fileName}</b> in <b>{galleryName}</b>.\""
 comments.unsubscribe.title: Email notifications are disabled
 error.data_incomplete: The data is incomplete. Please check your entries again.
 error.invalid_user: The user is unknown.
@@ -9,7 +9,7 @@ login.form.error_data_incomplete: Please fill in all fields.
 login.form.error_general_error: An error has occurred.
 login.form.field_password_placeholder: Password
 login.form.field_username_placeholder: Username or email address
-login.form.link_reset_password: Forgot password?
+login.form.link_reset_password: "Forgot password?"
 login.form.link_sign_up: Create account
 login.form.send_request: Login
 login.form.title: Login
@@ -21,16 +21,16 @@ password_reset.form.error_invalid_user: The user is unknown.
 password_reset.form.error_invalid_username: The user is unknown.
 password_reset.form.error_missing_field: Please fill in all fields.
 password_reset.form.error_password_mismatch: The two passwords you entered do not match.
-password_reset.form.error_password_unsafe: Unfortunately, we cannot use this password as it is very insecure. Please choose a different password.
+password_reset.form.error_password_unsafe: "Unfortunately, we cannot use this password as it is very insecure. Please choose a different password."
 password_reset.form.field_mail_placeholder: Your email address
-password_reset.form.field_password_confirm_placeholder: "… please enter again"
+password_reset.form.field_password_confirm_placeholder: â¦ please enter again"
 password_reset.form.field_password_placeholder: Your new password
-password_reset.form.intro: "Forgot your password? Enter the email address you used to register. We will send you information on how to reset your password."
+password_reset.form.intro: "Forgot your password? Enter the email address you used to register. We will send you information on how to reset your password.\""
 password_reset.form.login: Go to Login
-password_reset.form.request_sent: Request sent!
-password_reset.form.request_success: "If we recognize the email address you entered, you should have just received an email that will allow you to reset your password. Please also check your spam folder."
+password_reset.form.request_sent: "Request sent!"
+password_reset.form.request_success: "If we recognize the email address you entered, you should have just received an email that will allow you to reset your password. Please also check your spam folder.\""
 password_reset.form.reset: Reset password
-password_reset.form.reset_done: Password reset!
+password_reset.form.reset_done: "Password reset!"
 password_reset.form.reset_success_message: Your password has been successfully changed. You can now log in with it.
 password_reset.form.send_request: Send request
 password_reset.form.title: Reset password
@@ -39,11 +39,11 @@ sign_up.form.error_general_error: An error has occurred.
 sign_up.form.error_invalid_account_name: This picdrop address is unfortunately not available.
 sign_up.form.error_missing_field: Please fill in all fields.
 sign_up.form.error_user_already_exists: A user with this email address is already registered.
-sign_up.form.field_accept_terms: "I agree to the <a href=\"https://www.picdrop.com/web/en/gtc/\" target=\"_blank\">Terms of Service</a> and the <a href=\"https://www.picdrop.com/web/en/privacy/\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
-sign_up.form.field_account_name_hint: "Your picdrop address will be part of your gallery links that you share with others."
+sign_up.form.field_accept_terms: "I agree to the <a href=\\"https://www.picdrop.com/web/en/gtc/\\" target=\\"_blank\\">Terms of Service</a> and the <a href=\\"https://www.picdrop.com/web/en/privacy/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\">Privacy Policy</a>.\""
+sign_up.form.field_account_name_hint: Your picdrop address will be part of your gallery links that you share with others."
 sign_up.form.field_account_name_placeholder: My picdrop address
 sign_up.form.field_company_placeholder: Company name
-sign_up.form.field_coupon: Do you have a coupon code?
+sign_up.form.field_coupon: "Do you have a coupon code?"
 sign_up.form.field_coupon_placeholder: Coupon Code
 sign_up.form.field_firstname_placeholder: First name
 sign_up.form.field_lastname_placeholder: Last name
