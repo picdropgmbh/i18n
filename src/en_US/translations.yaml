@@ -5,6 +5,7 @@ error.invalid_user: The user is unknown.
 error.invalid_username: The user is unknown.
 error.missing_field: Please fill in all fields.
 foooo: Georgia responsive
+georgia_responsive: Georgia responsive
 login.form.error_auth_incorrect: The username or password is incorrect.
 login.form.error_data_incomplete: Please fill in all fields.
 login.form.error_general_error: An error has occurred.
