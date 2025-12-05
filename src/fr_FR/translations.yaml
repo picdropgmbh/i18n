@@ -4,6 +4,7 @@ error.data_incomplete: Les données sont incomplètes. Veuillez vérifier vos en
 error.invalid_user: L'utilisateur est inconnu.
 error.invalid_username: L'utilisateur est inconnu.
 error.missing_field: Veuillez remplir tous les champs.
+georgia_responsive: Georgia EN
 login.form.error_auth_incorrect: Le nom d'utilisateur ou le mot de passe est incorrect.
 login.form.error_data_incomplete: Veuillez remplir tous les champs.
 login.form.error_general_error: Une erreur s'est produite.

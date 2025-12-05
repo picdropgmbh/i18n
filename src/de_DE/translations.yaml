@@ -4,7 +4,7 @@ error.data_incomplete: Die Daten sind unvollständig. Bitte überprüfe deine An
 error.invalid_user: Der Benutzer ist unbekannt.
 error.invalid_username: Der Benutzer ist unbekannt.
 error.missing_field: Bitte fülle alle Felder aus.
-georgia_responsive: Bar
+georgia_responsive: Georgia DE
 login.form.error_auth_incorrect: Der Benutzername oder das Passwort sind nicht korrekt.
 login.form.error_data_incomplete: Bitte fülle alle Felder aus.
 login.form.error_general_error: Es ist ein Fehler aufgetreten.
