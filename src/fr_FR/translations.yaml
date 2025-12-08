@@ -1,4 +1,4 @@
-comments.unsubscribe.description: Vous ne recevrez plus de notifications par e-mail concernant les nouveaux commentaires sur <b>{fileName}</b> dans <b>{galleryName}</b>.
+comments.unsubscribe.description: Vous ne recevrez plus de notifications par e-mail fooconcernant les nouveaux commentaires sur <b>{fileName}</b> dans <b>{galleryName}</b>.
 comments.unsubscribe.title: Les notifications par e-mail sont désactivées
 error.data_incomplete: Les données sont incomplètes. Veuillez vérifier vos entrées.
 error.invalid_user: L'utilisateur est inconnu.
